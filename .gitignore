@@ -1,0 +1,8 @@
+# Firebase credentials
+/netlify/functions/firebase-admin.json
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
